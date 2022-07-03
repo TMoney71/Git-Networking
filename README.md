@@ -20,7 +20,7 @@ I did this in python and I used the socket and threading that allows the server 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * A nice display
 * I think it woulc be cool to add a game to it
 * Have it work with another lap top
